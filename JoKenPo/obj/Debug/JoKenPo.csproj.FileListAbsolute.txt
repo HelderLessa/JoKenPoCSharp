@@ -1,0 +1,10 @@
+C:\Helder\TI\cSharp\cursoGabriel\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+C:\Helder\TI\cSharp\cursoGabriel\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe
+C:\Helder\TI\cSharp\cursoGabriel\JoKenPo\JoKenPo\bin\Debug\JoKenPo.pdb
+C:\Helder\TI\cSharp\cursoGabriel\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.AssemblyReference.cache
+C:\Helder\TI\cSharp\cursoGabriel\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Form1.resources
+C:\Helder\TI\cSharp\cursoGabriel\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Properties.Resources.resources
+C:\Helder\TI\cSharp\cursoGabriel\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.GenerateResource.cache
+C:\Helder\TI\cSharp\cursoGabriel\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.CoreCompileInputs.cache
+C:\Helder\TI\cSharp\cursoGabriel\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+C:\Helder\TI\cSharp\cursoGabriel\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
